@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\API",
-    "\\client",
-    "\\client\\.angular",
-    "\\client\\src",
-    "\\client\\src\\app",
-    "\\client\\src\\assets"
+    "\\API\\Controllers",
+    "\\API\\Interfaces",
+    "\\API\\Services"
   ],
-  "SelectedNode": "\\API\\Startup.cs",
+  "SelectedNode": "\\API\\Interfaces\\ITokenService.cs",
   "PreviewInSolutionExplorer": false
 }
