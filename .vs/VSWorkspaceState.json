@@ -4,8 +4,13 @@
     "\\API",
     "\\API\\Controllers",
     "\\API\\Interfaces",
-    "\\API\\Services"
+    "\\API\\Services",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\_models",
+    "\\client\\src\\app\\_services"
   ],
-  "SelectedNode": "\\API\\Interfaces\\ITokenService.cs",
+  "SelectedNode": "\\client\\src\\app\\app.component.ts",
   "PreviewInSolutionExplorer": false
 }
