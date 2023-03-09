@@ -61,3 +61,10 @@ C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

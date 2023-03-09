@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\API",
-    "\\API\\Controllers",
+    "\\API\\Entities",
     "\\API\\Interfaces",
     "\\API\\Services",
     "\\client",
@@ -11,5 +11,6 @@
     "\\client\\src\\app\\_models",
     "\\client\\src\\app\\_services"
   ],
+  "SelectedNode": "\\API\\Entities\\AppUser.cs",
   "PreviewInSolutionExplorer": false
 }
