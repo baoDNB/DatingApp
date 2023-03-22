@@ -68,3 +68,5 @@ C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\ADMIN\source\repos\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
