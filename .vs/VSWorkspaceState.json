@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API\\Entities",
-    "\\API\\Interfaces",
-    "\\API\\Services",
     "\\client",
     "\\client\\src",
     "\\client\\src\\app",
